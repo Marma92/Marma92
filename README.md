@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [amramelbaz.com](amramelbaz.com)
 
-- 💬 Ask me about **Node.JS**
-
 - 📫 How to reach me **elbaz.amram[at]gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aelbz/](https://www.linkedin.com/in/aelbz/)
