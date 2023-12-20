@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **elbaz.amram[at]gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aelbz/](https://www.linkedin.com/in/aelbz/)
+- 📄 Know about my experiences [linkedin.com/in/aelbz/](https://www.linkedin.com/in/aelbz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
