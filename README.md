@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [amramelbaz.com](amramelbaz.com)
 
-- 📫 How to reach me **elbaz.amram[at]gmail.com**
+- 📫 How to reach me **elbaza.dev[at]gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/aelbz/](https://www.linkedin.com/in/aelbz/)
 
