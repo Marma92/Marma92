@@ -19,3 +19,6 @@
 </p>
 
 
+
+<a href="https://app.daily.dev/marma92"><img src="./devcard.png" width="356" alt="Amram's Dev Card"/></a>
+
