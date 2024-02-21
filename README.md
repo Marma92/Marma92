@@ -11,6 +11,12 @@
 
 - 📄 Know about my experiences [linkedin.com/in/aelbz/](https://www.linkedin.com/in/aelbz/)
 
+
+<h3 align="center">I am also an unstoppable reader</h3>
+
+
+<a href="https://app.daily.dev/marma92"><img src="./devcard.png" width="356" alt="Amram's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/le_marma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="le_marma" height="30" width="40" /></a>
@@ -20,5 +26,4 @@
 
 
 
-<a href="https://app.daily.dev/marma92"><img src="./devcard.png" width="356" alt="Amram's Dev Card"/></a>
 
