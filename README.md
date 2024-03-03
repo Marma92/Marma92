@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.JS and React Native**
 
-- 👨‍💻 All of my projects are available at [amramelbaz.com](amramelbaz.com)
+- 👨‍💻 All of my projects are available at [amramelbaz.com](http://amramelbaz.com)
 
 - 📫 How to reach me **elbaza.dev[at]gmail.com**
 
