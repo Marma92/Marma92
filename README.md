@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amram</h1>
 <h3 align="center">A passionate fullstack developper from Paris, France</h3>
 
-- 🔭 I’m currently working on my [photographer portfolio](https://github.com/Marma92/portphotov2)
+- 🔭 I’m currently working on re-learning [lua](https://github.com/Marma92/learninglua)
 
-- 🌱 I’m currently learning **React.JS and React Native**
+- 🌱 I’m currently learning **Advanced architectures**
 
 - 👨‍💻 All of my projects are available at [amramelbaz.com](http://amramelbaz.com)
 
